@@ -1,13 +1,19 @@
 # 西瓜语义分割训练
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 12f7202 (create table of contents)
 - [西瓜语义分割训练](#西瓜语义分割训练)
   - [西瓜数据集的获取](#西瓜数据集的获取)
   - [数据集的显示](#数据集的显示)
   - [configs配置文件](#configs配置文件)
   - [训练](#训练)
 
+<<<<<<< HEAD
 =======
 >>>>>>> bd4f38d (day4)
+=======
+>>>>>>> 12f7202 (create table of contents)
 ## 西瓜数据集的获取
 1. 下载地址：[https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20230130-mmseg/dataset/watermelon/Watermelon87_Semantic_Seg_Mask.zip](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20230130-mmseg/dataset/watermelon/Watermelon87_Semantic_Seg_Mask.zip)
 2. 数据集的结构:  
