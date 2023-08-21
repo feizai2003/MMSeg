@@ -1,6 +1,11 @@
 # MMSegmentation的安装
 > 官网链接：[https://mmsegmentation.readthedocs.io/zh_CN/latest/get_started.html](https://mmsegmentation.readthedocs.io/zh_CN/latest/get_started.html)  
 > [子豪兄链接](https://github.com/TommyZihao/MMSegmentation_Tutorials/blob/main/20230715/%E3%80%90A1%E3%80%91%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AEMMSegmentation.ipynb)
+- [MMSegmentation的安装](#mmsegmentation的安装)
+  - [安装Pytorch](#安装pytorch)
+  - [安装MMSegmentation](#安装mmsegmentation)
+  - [PR经历](#pr经历)
+    - [那么我们当然就可以提个PR去修复它了](#那么我们当然就可以提个pr去修复它了)
 
 
 ## 安装Pytorch
